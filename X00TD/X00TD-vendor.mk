@@ -1435,8 +1435,8 @@ PRODUCT_PACKAGES += \
     qcrilmsgtunnel \
     qcrilhook \
     qti-telephony-common \
-    vendor.qti.gnss@4.0-service \
-    manifest_android.hardware.drm@1.3-service.widevine \
+    vendor.qti.gnss@4.0-service.xml \
+    manifest_android.hardware.drm@1.3-service.widevine.xml \
     com.quicinc.cne.api-V1.1-java \
     com.quicinc.cne.constants-V1.0-java \
     com.quicinc.cne.constants-V2.0-java \
